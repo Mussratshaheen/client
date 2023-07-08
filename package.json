@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://Mussratshaheen.github.io/client",
+=======
+  
+>>>>>>> 039fbfbc9f51352066ee47bd7eae198bb9d4ee84
   "name": "client",
   "version": "0.1.0",
   "private": true,
